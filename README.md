@@ -24,5 +24,5 @@ FRAMESIZE_SXGA (1280 x 1024)
 
 Edit 'wifikeys.h' with the wifi credentials.
 
-The http address is: http://<espcam_ip>/
-The rtsp address is: rtsp://<espcam_ip>:8554/mjpeg/1/
+The http address is: ```http://<espcam_ip>/```
+The rtsp address is: ```rtsp://<espcam_ip>:8554/mjpeg/1/```
